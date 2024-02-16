@@ -14,3 +14,5 @@
     * [1004.js](beginner/1004/1004.js.md)
   * [1005](beginner/1004-1/README.md)
     * [1005.js](beginner/1004-1/1004.js.md)
+  * [1006](beginner/1004-2/README.md)
+    * [1006.js](beginner/1004-2/1004.js.md)
